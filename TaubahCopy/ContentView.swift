@@ -27,7 +27,7 @@ struct ContentView: View {
                         .frame(width: 75.0)
                     
                     
-                    Button("Facts about me!") {
+                    Button("Facts about me!!") {
 //                        //List
 //                                            "1) I'm 15 2) I've made 2 mini golf holes
 //                                            3)I have a cat named Lizzy
